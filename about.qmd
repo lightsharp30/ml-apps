@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Deep learning = learning, learning, learning :-)

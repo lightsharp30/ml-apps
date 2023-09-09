@@ -1,0 +1,14 @@
+---
+title: "Image Classifier"
+---
+
+Here we demonstrate an image classifier for flowers based on a [Kaggle 
+flower dataset](https://www.kaggle.com/datasets/l3llff/flowers)
+The app is hosted on hugging face and embedded in this website.
+
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/3.43.2/gradio.js"
+></script> 
+  <gradio-app src="https://lightsharp30-kaggle-flowers.hf.space"></gradio-app>
+

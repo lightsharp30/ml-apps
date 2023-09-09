@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c0e16b25-2ea4-4a6b-b18f-46a5907f1140
+      url: 'https://lightsharp30.quarto.pub/lampe30'

@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Machine Learning Apps",
+    "section": "",
+    "text": "On the following pages I’m demonstrating several machine learing apps. Models are built with Jupyter notebooks using the Fastai library. The web interface is generated with Gradio and apps hosted on huggingface spaces. Finally, websites are generated using Quarto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Deep learning = learning, learning, learning :-)"
+  },
+  {
+    "objectID": "image-class.html",
+    "href": "image-class.html",
+    "title": "Image Classifier",
+    "section": "",
+    "text": "Here we demonstrate an image classifier for flowers based on a Kaggle flower dataset The app is hosted on hugging face and embedded in this website."
+  }
+]

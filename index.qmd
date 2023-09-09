@@ -1,0 +1,7 @@
+---
+title: "Machine Learning Apps"
+---
+
+On the following pages I'm demonstrating several machine learing apps. Models are built with Jupyter notebooks using the [Fastai](https://www.fast.ai/) library. The web interface is generated with [Gradio](https://www.gradio.app/) and apps hosted on huggingface spaces. Finally, websites are generated using [Quarto](https://quarto.org/). 
+
+
